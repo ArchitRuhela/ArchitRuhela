@@ -5,7 +5,8 @@
 <details>
 <p><strong> <summary> Hello! I am Archit Ruhela.   </summary> </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/architruhela) <be>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/track/2pCkF15FMRdEz2qG94G6w3) <be>
+
 
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
