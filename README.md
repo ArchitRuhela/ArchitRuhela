@@ -1,14 +1,20 @@
 <div align="center">
 
 <a href="https://github.com/sp-xd">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />
 </a>
-<br>
+<br><br>
 
 <details>
   <summary><strong>Hello! I am Archit Ruhela.</strong></summary>
+  <br>
 
-  [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/track/2pCkF15FMRdEz2qG94G6w3)  
+  <h3>🎧 Currently Vibing To</h3>
+
+  <a href="https://open.spotify.com/track/56zZ48jdyY2oDXHVnwg5Di?si=db2d24ea08f5476c" target="_blank">
+    <img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" alt="Spotify Now Playing" width="60%" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
+  </a>
+  <p><em>Click the card to listen on Spotify</em> 🎶</p>
   <br>
 
   ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)  
